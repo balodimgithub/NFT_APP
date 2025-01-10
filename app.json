@@ -15,7 +15,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.Oladimeji29Nft.Web3"
     },
     "web": {
       "bundler": "metro",
@@ -44,6 +45,7 @@
       "eas": {
         "projectId": "2b278790-2aeb-4433-b4d9-c87f8e48a4b7"
       }
-    }
+    },
+    "owner": "oladimeji29"
   }
 }
